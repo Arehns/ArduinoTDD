@@ -1,6 +1,6 @@
 #include <SPI.h> //Library for using SPI Communication
 #include <mcp2515.h> //Library for using CAN Communication
-#include <DHT.h> //Library for using DHT sensor
+#include <dht.h> //Library for using DHT sensor
 #define DHTPIN A0
 #define DHTTYPE DHT11
 
