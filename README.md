@@ -15,6 +15,9 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
+This is a thesis project for Software test and aims to show how 
+TDD code can reveal insights of how Arduino code works.
+
 The Administration Menu module displays the entire administrative menu tree
 (and most local tasks) in a drop-down menu, providing administrators one- or
 two-click access to most pages.  Other modules may also add menu links to the
