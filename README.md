@@ -41,6 +41,7 @@ REQUIREMENTS
 ------------
 
 Windows
+Arduino hardware
 
 RECOMMENDED MODULES
 -------------------
