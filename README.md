@@ -40,7 +40,7 @@ This module requires the following modules:
 REQUIREMENTS
 ------------
 
-This module requires no modules outside of Drupal core.
+Windows
 
 RECOMMENDED MODULES
 -------------------
@@ -52,8 +52,8 @@ RECOMMENDED MODULES
 INSTALLATION
 ------------
 
- * Install as you would normally install a contributed Drupal module. Visit
-   https://www.drupal.org/node/895232/ for further information.
+ * Arduinos editor. Visit
+   https://www.arduino.cc/en/software 
 
- * You may want to disable Toolbar module, since its output clashes with
-   Administration Menu.
+ * Visual Studio IDE.Visit https://visualstudio.microsoft.com/downloads/
+ * Cmake build tool, choose Windows source. Visit https://cmake.org/download/
